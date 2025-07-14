@@ -19,7 +19,7 @@ I am a professional in the development and implementation of technological solut
         <td>
             <img src="https://img.shields.io/badge/MICROSOFT-Windows-blue?style=for-the-badge&logo=Windows" alt="Microsoft Windows" />
         </td>
-    <tr>
+    </tr>
     <tr>
         <td><strong>Development languages</strong></td>
         <td>
