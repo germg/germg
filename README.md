@@ -1,29 +1,20 @@
 <p align="center">All around developer 💪</p>
 
-I am a professional in the development and implementation of technological solutions. I love learning, applying, and teaching. I am passionate about open source software and am constantly learning new languages and technologies. I enjoy leading teams and promoting individual and group development.
+I am a professional in the development and implementation of technological solutions. I love learning, implementing, and teaching. I am passionate about open source software and I am constantly learning new languages and technologies. I enjoy leading teams and promoting individual and group development.
 
 ## 💻 Technologies
 
 <table>
     <tr>
-        <td><strong>Operating systems</strong></td>
-        <td>
-            <img src="https://img.shields.io/badge/LINUX-Ubuntu-E75D2F?style=for-the-badge&logo=Ubuntu" alt="Linux Ubuntu" />
-            <img src="https://img.shields.io/badge/LINUX-Manjaro-rgb(53%2C191%2C164)?style=for-the-badge&logo=Manjaro" alt="Linux Manjaro" />
-            <img src="https://img.shields.io/badge/APPLE-Mac%20OS-white?style=for-the-badge&logo=Apple&logoColor=white" alt="Mac Os" />
-            <img src="https://img.shields.io/badge/MICROSOFT-Windows-blue?style=for-the-badge&logo=Windows" alt="Microsoft Windows" />
-        </td>
-    <tr>
-    <tr>
         <td><strong>Development languages</strong></td>
         <td>
-            <img src="https://img.shields.io/badge/BASH-rgb(78%2C%20170%2C%2037)?style=for-the-badge&logo=gnubash&logoColor=white" alt="Linux Ubuntu" />       
-            <img src="https://img.shields.io/badge/Java-ec2025?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+            <img src="https://img.shields.io/badge/Java-ec2025?style=for-the-badge&logo=java&logoColor=white" alt="Java" />       
             <img src="https://img.shields.io/badge/nodejs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
             <img src="https://img.shields.io/badge/typescript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-            <img src="https://img.shields.io/badge/php-7377AD?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
             <img src="https://img.shields.io/badge/python-356EA1?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+            <img src="https://img.shields.io/badge/php-7377AD?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+            <img src="https://img.shields.io/badge/BASH-rgb(78%2C%20170%2C%2037)?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
         </td>
     </tr>
     <tr>
@@ -32,9 +23,9 @@ I am a professional in the development and implementation of technological solut
             <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql" />
             <img src="https://img.shields.io/badge/maria db-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MAriaDB" />
             <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-            <img src="https://img.shields.io/badge/Sql Server-blue?style=for-the-badge&logo=Windows" alt="Microsoft Windows" />
             <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
             <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+            <img src="https://img.shields.io/badge/Sql Server-blue?style=for-the-badge&logo=Windows" alt="Microsoft Windows" />            
         </td>
     </tr>
     <tr>
@@ -95,6 +86,15 @@ I am a professional in the development and implementation of technological solut
             <img src="https://img.shields.io/badge/nagios-white?style=for-the-badge&logo=nagios&logoColor=white" alt="Nagios" />
         </td>
     </tr>
+    <tr>
+        <td><strong>Operating systems</strong></td>
+        <td>
+            <img src="https://img.shields.io/badge/LINUX-Ubuntu-E75D2F?style=for-the-badge&logo=Ubuntu" alt="Linux Ubuntu" />
+            <img src="https://img.shields.io/badge/LINUX-Manjaro-rgb(53%2C191%2C164)?style=for-the-badge&logo=Manjaro" alt="Linux Manjaro" />
+            <img src="https://img.shields.io/badge/APPLE-Mac%20OS-white?style=for-the-badge&logo=Apple&logoColor=white" alt="Mac Os" />
+            <img src="https://img.shields.io/badge/MICROSOFT-Windows-blue?style=for-the-badge&logo=Windows" alt="Microsoft Windows" />
+        </td>
+    <tr>
 </table>
 
 ## 🔗 Links
