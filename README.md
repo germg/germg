@@ -99,7 +99,6 @@ I am a professional in the development and implementation of technological solut
 
 ## 🔗 Links
 
-- [Visit my site](https://www.germg.com.ar)
 - [Linkedin](https://www.linkedin.com/in/germg/)
 - [Repo as a teacher](https://github.com/gemazza)
 - [Humble guide to java for beginners](https://javaprincipiantes.github.io/)
